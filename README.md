@@ -1,6 +1,6 @@
 # System-Monitor
- Linux os monitor (similar to HTOP)
-![System Monitor] (images/System-Monitor.png)
+Linux os monitor (similar to HTOP)
+![System Monitor](images/System-Monitor.png)
 ## ncurses
 [ncurses](https://www.gnu.org/software/ncurses/) is a library that facilitates text-based graphical output in the terminal. This project relies on ncurses for display output.
 ## Make
