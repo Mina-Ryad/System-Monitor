@@ -3,9 +3,9 @@ Linux os monitor (similar to HTOP)
 ![System Monitor](images/System-Monitor.png)
 # -------------------------------
 ## Description
-# The system Monitor shows the OS version, Kernel, overall system CPU utilization, overall system memory usage, total number of processes, number of running prosses and the up time for the system.
-# The system Monitor show 15 processes sorted with the highest CPU_Utilization
-# Also shows every process PID, User, CPU utilization, memory usage , time the process has been up and command line for the process
+### The system Monitor shows the OS version, Kernel, overall system CPU utilization, overall system memory usage, total number of processes, number of running prosses and the up time for the system.
+### The system Monitor show 15 processes sorted with the highest CPU_Utilization
+### Also shows every process PID, User, CPU utilization, memory usage , time the process has been up and command line for the process
 # -------------------------------
 ## ncurses
 [ncurses](https://www.gnu.org/software/ncurses/) is a library that facilitates text-based graphical output in the terminal. This project relies on ncurses for display output.
