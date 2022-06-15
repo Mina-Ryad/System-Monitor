@@ -1,0 +1,3 @@
+/run/media/mryad/Technical/Udacity-C++-Nanodegree/Project_2/CppND-System-Monitor/build/CMakeFiles/rebuild_cache.dir
+/run/media/mryad/Technical/Udacity-C++-Nanodegree/Project_2/CppND-System-Monitor/build/CMakeFiles/monitor.dir
+/run/media/mryad/Technical/Udacity-C++-Nanodegree/Project_2/CppND-System-Monitor/build/CMakeFiles/edit_cache.dir

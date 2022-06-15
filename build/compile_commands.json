@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/run/media/mryad/Technical/Udacity-C++-Nanodegree/Project_2/CppND-System-Monitor/build",
+  "command": "/usr/bin/c++  -I/run/media/mryad/Technical/Udacity-C++-Nanodegree/Project_2/CppND-System-Monitor/include -g -Wall -Wextra -std=gnu++17 -o CMakeFiles/monitor.dir/src/format.cpp.o -c /run/media/mryad/Technical/Udacity-C++-Nanodegree/Project_2/CppND-System-Monitor/src/format.cpp",
+  "file": "/run/media/mryad/Technical/Udacity-C++-Nanodegree/Project_2/CppND-System-Monitor/src/format.cpp"
+},
+{
+  "directory": "/run/media/mryad/Technical/Udacity-C++-Nanodegree/Project_2/CppND-System-Monitor/build",
+  "command": "/usr/bin/c++  -I/run/media/mryad/Technical/Udacity-C++-Nanodegree/Project_2/CppND-System-Monitor/include -g -Wall -Wextra -std=gnu++17 -o CMakeFiles/monitor.dir/src/linux_parser.cpp.o -c /run/media/mryad/Technical/Udacity-C++-Nanodegree/Project_2/CppND-System-Monitor/src/linux_parser.cpp",
+  "file": "/run/media/mryad/Technical/Udacity-C++-Nanodegree/Project_2/CppND-System-Monitor/src/linux_parser.cpp"
+},
+{
+  "directory": "/run/media/mryad/Technical/Udacity-C++-Nanodegree/Project_2/CppND-System-Monitor/build",
+  "command": "/usr/bin/c++  -I/run/media/mryad/Technical/Udacity-C++-Nanodegree/Project_2/CppND-System-Monitor/include -g -Wall -Wextra -std=gnu++17 -o CMakeFiles/monitor.dir/src/main.cpp.o -c /run/media/mryad/Technical/Udacity-C++-Nanodegree/Project_2/CppND-System-Monitor/src/main.cpp",
+  "file": "/run/media/mryad/Technical/Udacity-C++-Nanodegree/Project_2/CppND-System-Monitor/src/main.cpp"
+},
+{
+  "directory": "/run/media/mryad/Technical/Udacity-C++-Nanodegree/Project_2/CppND-System-Monitor/build",
+  "command": "/usr/bin/c++  -I/run/media/mryad/Technical/Udacity-C++-Nanodegree/Project_2/CppND-System-Monitor/include -g -Wall -Wextra -std=gnu++17 -o CMakeFiles/monitor.dir/src/ncurses_display.cpp.o -c /run/media/mryad/Technical/Udacity-C++-Nanodegree/Project_2/CppND-System-Monitor/src/ncurses_display.cpp",
+  "file": "/run/media/mryad/Technical/Udacity-C++-Nanodegree/Project_2/CppND-System-Monitor/src/ncurses_display.cpp"
+},
+{
+  "directory": "/run/media/mryad/Technical/Udacity-C++-Nanodegree/Project_2/CppND-System-Monitor/build",
+  "command": "/usr/bin/c++  -I/run/media/mryad/Technical/Udacity-C++-Nanodegree/Project_2/CppND-System-Monitor/include -g -Wall -Wextra -std=gnu++17 -o CMakeFiles/monitor.dir/src/process.cpp.o -c /run/media/mryad/Technical/Udacity-C++-Nanodegree/Project_2/CppND-System-Monitor/src/process.cpp",
+  "file": "/run/media/mryad/Technical/Udacity-C++-Nanodegree/Project_2/CppND-System-Monitor/src/process.cpp"
+},
+{
+  "directory": "/run/media/mryad/Technical/Udacity-C++-Nanodegree/Project_2/CppND-System-Monitor/build",
+  "command": "/usr/bin/c++  -I/run/media/mryad/Technical/Udacity-C++-Nanodegree/Project_2/CppND-System-Monitor/include -g -Wall -Wextra -std=gnu++17 -o CMakeFiles/monitor.dir/src/processor.cpp.o -c /run/media/mryad/Technical/Udacity-C++-Nanodegree/Project_2/CppND-System-Monitor/src/processor.cpp",
+  "file": "/run/media/mryad/Technical/Udacity-C++-Nanodegree/Project_2/CppND-System-Monitor/src/processor.cpp"
+},
+{
+  "directory": "/run/media/mryad/Technical/Udacity-C++-Nanodegree/Project_2/CppND-System-Monitor/build",
+  "command": "/usr/bin/c++  -I/run/media/mryad/Technical/Udacity-C++-Nanodegree/Project_2/CppND-System-Monitor/include -g -Wall -Wextra -std=gnu++17 -o CMakeFiles/monitor.dir/src/system.cpp.o -c /run/media/mryad/Technical/Udacity-C++-Nanodegree/Project_2/CppND-System-Monitor/src/system.cpp",
+  "file": "/run/media/mryad/Technical/Udacity-C++-Nanodegree/Project_2/CppND-System-Monitor/src/system.cpp"
+}
+]
